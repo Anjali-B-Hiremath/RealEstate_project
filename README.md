@@ -40,4 +40,4 @@ Run the app:
 
 Backend: cd server && npm start
 Frontend: cd client && npm start
-Open http://localhost:3000
+Open localhost:3000
