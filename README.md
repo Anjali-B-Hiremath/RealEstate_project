@@ -1,7 +1,31 @@
-React + Vite
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Real Estate Application
 
-Currently, two official plugins are available:
+A modern Real Estate app built using the **MERN stack** (MongoDB, Express.js, React, and Node.js) with Tailwind CSS for styling.
 
-@vitejs/plugin-react uses Babel for Fast Refresh
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
+---
+
+## Features
+
+- Responsive design for all devices.
+- Property listings with search and filter functionality.
+- Secure user authentication with JWT.
+- Admin dashboard for user and listing management.
+- RESTful APIs for seamless backend integration.
+
+---
+
+## Tech Stack
+
+- **Frontend**: React.js (Vite)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Styling**: Tailwind CSS
+
+---
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Anjali-B-Hiremath/RealEstate_project.git
+   cd RealEstate_project/mern-estate-main
