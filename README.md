@@ -23,9 +23,4 @@ A modern Real Estate app built using the **MERN stack** (MongoDB, Express.js, Re
 
 ---
 
-## Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Anjali-B-Hiremath/RealEstate_project.git
-   cd RealEstate_project/mern-estate-main
